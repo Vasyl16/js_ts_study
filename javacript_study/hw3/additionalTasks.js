@@ -4,37 +4,37 @@ const books = [
   {
     name: 'Novel',
     pages: 10,
-    authors: [{ name: 'Vasyl ' }],
+    authors: [{ name: 'Vasyl' }],
     topics: ['novel'],
   },
 
   {
     name: 'Novel',
     pages: 11,
-    authors: [{ name: 'Vasyl ' }, { name: 'Petro' }],
+    authors: [{ name: 'Vasyl' }, { name: 'Petro' }],
     topics: ['novel'],
   },
 
   {
     name: 'Nove;1',
     pages: 12,
-    authors: [{ name: 'Vasyl ' }],
+    authors: [{ name: 'Vasyl' }],
     topics: ['novel'],
   },
 
   {
     name: 'Novel13',
     pages: 13,
-    authors: [{ name: 'Vasyl ' }],
+    authors: [{ name: 'Vasyl' }],
     topics: ['novel', 'top'],
   },
 
-  { name: 'Nov', pages: 14, authors: [{ name: ' Vasyl' }], topics: ['novel'] },
+  { name: 'Nov', pages: 14, authors: [{ name: 'Vasyl' }], topics: ['novel'] },
 
   {
     name: 'No',
     pages: 15,
-    authors: [{ name: 'Vasyl ' }, { name: 'Dmutro' }],
+    authors: [{ name: 'Vasyl' }, { name: 'Dmutro' }],
     topics: ['novelss'],
   },
 ];
